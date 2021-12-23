@@ -1,3 +1,4 @@
+Automobilių skelbimų portalas
 Šio projekto kūrimui back-end‘ui naudojau PHP programavimo kalbos karkasą Laravel. Pasirinkau tai, nes lengvai ir kokybiškai sukursiu norimas funkcijas.
 Front-end‘ui naudojau HTML-CSS bei react‘a taip pat naudojau bootstrap, kad dizainas atrodytų šiuolaikiškai ir patraukliai.
 
